@@ -1,0 +1,29 @@
+column,type,meaning,values
+EmpNumber,Text,Unique employee identifier,
+Age,Number,Age of the employee in years,
+Gender,Category,Gender,"Male, Female"
+EducationBackground,Category,Field of education,"Life Sciences, Medical, Marketing, Technical Degree, Human Resources, Other"
+MaritalStatus,Category,Marital status,"Single, Married, Divorced"
+EmpDepartment,Category,Department of the employee,"Sales, Development, Research & Development, Human Resources, Finance, Data Science"
+EmpJobRole,Category,Job role of the employee,
+BusinessTravelFrequency,Category,How often the employee travels for business,"Non-Travel, Travel_Rarely, Travel_Frequently"
+DistanceFromHome,Number,Distance from home to work,
+EmpEducationLevel,Ordered scale,Level of education,"1 Below College, 2 College, 3 Bachelor, 4 Master, 5 Doctor"
+EmpEnvironmentSatisfaction,Ordered scale,Satisfaction with the working environment,"1 Low, 2 Medium, 3 High, 4 Very High"
+EmpHourlyRate,Number,Hourly rate,
+EmpJobInvolvement,Ordered scale,Involvement in the job,"1 Low, 2 Medium, 3 High, 4 Very High"
+EmpJobLevel,Ordered scale,Job level (definition not given in the data sheet),
+EmpJobSatisfaction,Ordered scale,Satisfaction with the job,"1 Low, 2 Medium, 3 High, 4 Very High"
+NumCompaniesWorked,Number,Number of companies worked for before,
+OverTime,Category,Whether the employee works overtime,"Yes, No"
+EmpLastSalaryHikePercent,Number,Percentage of the last salary hike,
+EmpRelationshipSatisfaction,Ordered scale,Satisfaction with working relationships,"1 Low, 2 Medium, 3 High, 4 Very High"
+TotalWorkExperienceInYears,Number,Total work experience in years,
+TrainingTimesLastYear,Number,Number of trainings attended last year,
+EmpWorkLifeBalance,Ordered scale,Work life balance,"1 Bad, 2 Good, 3 Better, 4 Best"
+ExperienceYearsAtThisCompany,Number,Years at INX Future Inc,
+ExperienceYearsInCurrentRole,Number,Years in the current role,
+YearsSinceLastPromotion,Number,Years since the last promotion,
+YearsWithCurrManager,Number,Years with the current manager,
+Attrition,Category,Whether the employee has left,"Yes, No"
+PerformanceRating,Ordered scale (target),Performance rating to be explained and predicted,"1 Low, 2 Good, 3 Excellent, 4 Outstanding (only 2, 3, 4 occur)"

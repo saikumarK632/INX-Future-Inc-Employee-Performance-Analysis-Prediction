@@ -1,0 +1,8 @@
+model,cv_accuracy,cv_macro_f1,model_set
+Logistic Regression,0.3646,0.3249,Model B – hiring time factors
+Support Vector Machine,0.3885,0.3104,Model B – hiring time factors
+Gradient Boosting,0.6938,0.3088,Model B – hiring time factors
+Random Forest,0.7198,0.2868,Model B – hiring time factors
+K Nearest Neighbours,0.724,0.2839,Model B – hiring time factors
+Decision Tree,0.324,0.2816,Model B – hiring time factors
+Most frequent class (baseline),0.7281,0.2809,Model B – hiring time factors

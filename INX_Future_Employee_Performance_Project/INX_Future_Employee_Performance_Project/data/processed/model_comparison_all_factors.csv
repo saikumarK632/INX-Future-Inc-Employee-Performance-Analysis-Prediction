@@ -1,0 +1,8 @@
+model,cv_accuracy,cv_macro_f1,model_set
+Gradient Boosting,0.9312,0.8932,Model A – all factors
+Decision Tree,0.8833,0.8317,Model A – all factors
+Random Forest,0.9031,0.8212,Model A – all factors
+Support Vector Machine,0.7698,0.6998,Model A – all factors
+Logistic Regression,0.7365,0.6684,Model A – all factors
+K Nearest Neighbours,0.7438,0.4051,Model A – all factors
+Most frequent class (baseline),0.7281,0.2809,Model A – all factors
